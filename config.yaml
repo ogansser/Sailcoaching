@@ -1,0 +1,18 @@
+baseURL: https://example.com
+disableKinds:
+  - section
+  - taxonomy
+  - term
+  - RSS
+  - robotsTXT
+defaultContentLanguage: en
+theme: hugo-scroll
+title: Sailcoaching
+params:
+  copyright: © Oliver Gansser
+  description: Sailing & Coaching
+  favicon: images/favicon.png
+  images: images/cover-image.jpg
+  meta:
+    keywords: coaching, Sailing
+  title: Sailcoaching
