@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://sailing-and-coaching.netlify.app/
 disableKinds:
   - section
   - taxonomy
