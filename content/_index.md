@@ -1,5 +1,5 @@
 ---
-header_headline: Sailcoaching
+header_headline: Sailing and Coaching
 header_image: images/deck.jpg
-header_subheadline: Sailcoaching
+header_subheadline: Sailing and Coaching
 ---

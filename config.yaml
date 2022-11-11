@@ -7,7 +7,7 @@ disableKinds:
   - robotsTXT
 defaultContentLanguage: en
 theme: hugo-scroll
-title: Sailcoaching
+title: Sailing and Coaching
 params:
   copyright: © Oliver Gansser
   description: Sailing & Coaching
@@ -15,4 +15,4 @@ params:
   images: images/cover-image.jpg
   meta:
     keywords: coaching, Sailing
-  title: Sailcoaching
+  title: Sailing and Coaching
