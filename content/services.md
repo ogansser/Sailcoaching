@@ -1,5 +1,5 @@
 ---
-title: Tagesablauf 
+title: Tagesablauf Sailcoaching
 ---
 
 Das Leben an Bord einer Segelyacht wird von uns so organisiert, dass es verschiedene Zeitslots gibt, die für die Crewmitglieder unterschiedliche Bedeutung habe.
