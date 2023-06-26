@@ -21,7 +21,7 @@ Sie sollten mitbringen
 
 ![](images/reflexion.jpg)
 
-Die Yacht ist eine Charteryacht mit > 50 Fuß Größe und das bevorzugte Revier ist Mallorca. Die Kosten betragen bei einer 6er Crew € 2.500 ,- pro Person inklusive Verpflegung und Sicherheitsausrüstung. An- und Abreise werden individuell geregelt und bezahlt.
+Die Yacht ist eine Charteryacht mit > 50 Fuß Größe und die bevorzugten Reviere sind Elba und Mallorca. Die Kosten hängen vom Revier und Durchführungszeitraum ab und werden von uns individuell nach Anfrage kalkuliert. An- und Abreise werden individuell geregelt und bezahlt.
 
 
 ---
@@ -31,7 +31,6 @@ Es erwarten Sie
 - 5 Trainingsblöcke à 4 h zu den Themen Management, Führungsstil, Kultur, Organisationsentwicklung und Selbstmanagement mit Impulsvorträgen, Diskussionen und Transferübungen
 - Tägliche Teamreflexion als Workshop zu wechselnden Themen - Tägliches Einzelcoaching auf Deck - Einführung ins Segeln
 - Teamübungen bei Segelmanövern
-
 
 Wie sieht der [Tagesablauf](services) an Bord während einer typischen Segelwoche inklusive Coaching aus?
 
