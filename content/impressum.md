@@ -10,6 +10,7 @@ Telefon: 01776/21857728
 E-Mail: profsailcoaching@gmail.com
 
 
+
 Haftungshinweis:
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
