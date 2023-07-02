@@ -7,9 +7,9 @@ disableKinds:
   - robotsTXT
 defaultContentLanguage: en
 theme: hugo-scroll
-title: Sailing and Coaching
+title: Coaching for executives on a sailboat
 params:
-  copyright: © Oliver Gansser
+  copyright: © Dr. Oliver Gansser
   description: Sailing & Coaching
   favicon: images/favicon.png
   images: images/cover-image.jpg
