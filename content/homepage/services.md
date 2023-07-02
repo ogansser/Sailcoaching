@@ -7,7 +7,7 @@ header_menu: true
 Coach und Skipper
 
 - Prof. Dr. Christoph Berg hat mehr als 20 Jahre Erfahrung im Bereich Führungskräfteentwicklung und Coaching in unterschiedlichen Branchen
-- Prof. Dr. Oliver Gansser segelt seit 20 Jahren als Skipper und ist in Besitz des Sportseeschifferscheins als amtlicher Sportschifferschein
+- [Prof. Dr. Oliver Gansser](https://sailing-and-coaching.netlify.app/Sail_CV_Gansser.pdf) segelt seit 20 Jahren als Skipper und ist in Besitz des Sportseeschifferscheins als amtlicher Sportschifferschein
 
 
 ![](images/OlliandChristoph.jpg)
