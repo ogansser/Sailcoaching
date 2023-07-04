@@ -6,8 +6,8 @@ header_menu: true
 
 Coach und Skipper
 
-- Prof. Dr. Christoph Berg hat mehr als 20 Jahre Erfahrung im Bereich Führungskräfteentwicklung und Coaching in unterschiedlichen Branchen
-- [Prof. Dr. Oliver Gansser](http://sailing-and-coaching.netlify.app/Sail_CV_Gansser.pdf) segelt seit 20 Jahren als Skipper und ist in Besitz des Sportseeschifferscheins als amtlicher Sportschifferschein
+- [Prof. Dr. Christoph Berg](https://trainingspartner.net/) hat mehr als 20 Jahre Erfahrung im Bereich Führungskräfteentwicklung und Coaching in unterschiedlichen Branchen
+- [Prof. Dr. Oliver Gansser](http://sailing-and-coaching.netlify.app/Sail_CV_Gansser.pdf) segelt seit 20 Jahren als Skipper und ist in Besitz des Sportseeschifferscheins (SSS) als amtlicher Sportschifferschein
 
 
 ![](images/OlliandChristoph.jpg)
@@ -22,7 +22,6 @@ Sie sollten mitbringen
 ![](images/reflexion.jpg)
 
 Die Yacht ist eine Charteryacht mit > 50 Fuß Größe und die bevorzugten Reviere sind Elba und Mallorca. Die Kosten hängen vom Revier und Durchführungszeitraum ab und werden von uns individuell nach Anfrage kalkuliert. An- und Abreise werden individuell geregelt und bezahlt.
-
 
 ---
 
