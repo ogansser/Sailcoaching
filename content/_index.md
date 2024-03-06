@@ -1,5 +1,5 @@
 ---
-header_headline: Professional
+header_headline: Executive Team under sails
 header_image: images/deck.jpg
-header_subheadline: Coaching for executives on a sailboat
+header_subheadline: Leadership training & coaching on a boat
 ---
